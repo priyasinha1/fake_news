@@ -4,5 +4,4 @@ Developed a machine learning program to identify when an article might be fake n
 Data:
 
 Build Model: https://www.kaggle.com/c/fake-news/data
-
 Test Model: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
